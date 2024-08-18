@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJibHh2d2hzdm9lbGRmZnp5bTR5OXNuM3dwNHYzMGR4MnR0eXRxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYSSBtDgbbRzq/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liamsi-22&label=Profile%20views&color=0e75b6&style=flat" alt="liamsi-22" /> </p>
 
-- 🔭 I’m currently working on **Push_swap**
+- 🔭 I’m currently working on **Minishell**
 
 - 🌱 I’m currently learning **Javascript**
 
